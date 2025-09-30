@@ -1,0 +1,9 @@
+{
+	"name": "ADF-PRO-PROJ",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "054e79df-3f6f-4f9c-b0d5-a3e7b018a110",
+		"tenantId": "3b0c1966-c0fe-4c42-9bc0-9a5f5ca1107d"
+	}
+}
